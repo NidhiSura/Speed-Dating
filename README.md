@@ -5,7 +5,7 @@ Dataset taken from:
 
 This project was created for the course *CS513: Knowledge Discover & Data Mining at Stevens Institute of Technology*
 
-## Team Members:<br>
+**Team Members:**<br>
 Nidhi Sura<br>
 Kunal Mandalya<br>
 Vismay Rathod<br>
